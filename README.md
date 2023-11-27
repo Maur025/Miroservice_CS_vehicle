@@ -24,6 +24,7 @@ Vehicle (actual)
 <br>
 Gateway
 <br>
+<br>
 API Endpoint:
 Endpoint de Cliente: http://localhost:8090/api/client/
 <br>
