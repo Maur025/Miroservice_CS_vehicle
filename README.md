@@ -17,8 +17,8 @@ Ejecuta el proyecto en el IDE de java (de tu preferencia), eso hara que se recon
 
 - Config
 - Eureka
-- Client (actual)
-- Vehicle
+- Client
+- Vehicle (actual)
 - Gateway
 
 ## API Endpoint:
