@@ -28,24 +28,25 @@ Gateway
 API Endpoint:
 Endpoint de Cliente: http://localhost:8090/api/client/
 <br>
+
+Endpoint de Vehicle: http://localhost:9090/api/vehicle/
+<br>
 Este Endpoint contiene las rutas de consulta de:
 <br>
-Nuevo cliente:
-http://localhost:8090/api/client/create
+Nuevo vehiculo:
+http://localhost:8080/api/vehicle/create
 <br>
-Listar Todos los Clientes:
-http://localhost:8090/api/client/all
+Listar Todos los Vehiculos:
+http://localhost:8080/api/vehicle/all
 <br>
-Buscar cliente por id:
-http://localhost:8090/api/client/search/id
+Buscar Vehiculo por id:
+http://localhost:8080/api/vehicle/search/id
 <br>
 Buscar los Vehiculos pertenecientes a un cliente:
-http://localhost:8090/api/client/search_vehicles/iddeCliente
+http://localhost:8080/api/vehicle/search_by_client/iddeCliente
 <br>
 proximamente se agregaran la de editar y eliminar
 <br>
-
-Endpoint de Vehicle: http://localhost:9090/api/vehicle/
 
 Endpoint de Eureka: http://localhost:8761/eureka
 
